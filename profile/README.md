@@ -1,6 +1,6 @@
 # Bennington Area Robotics
 
-Youth robotics teams based in Bennington, Vermont.
+Community-based youth robotics teams based in Bennington, Vermont.
 
 ## Teams
 
@@ -13,4 +13,5 @@ Season code, documentation, and shared resources. Most repos are public.
 
 ## Links
 
+- [Bennington Area Makers](https://www.bamvt.com), our host organization.
 - [FIRST Tech Challenge](https://www.firstinspires.org/robotics/ftc)
