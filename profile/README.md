@@ -1,6 +1,8 @@
 # Bennington Area Robotics
 
-Community-based youth robotics teams based in Bennington, Vermont.
+Community-based youth robotics teams based in Bennington, Vermont. 
+
+Join us for the Bennington Qualifiers on Saturday 1/31/2026, at MAUMS!
 
 ## Teams
 
@@ -14,4 +16,5 @@ Season code, documentation, and shared resources. Most repos are public.
 ## Links
 
 - [Bennington Area Makers](https://www.bamvt.com), our host organization.
-- [FIRST Tech Challenge](https://www.firstinspires.org/robotics/ftc)
+- [FTC Decode](https://www.firstinspires.org/programs/ftc/game-and-season), our competition for 2025-2026.
+- [FIRST Tech Challenge](https://www.firstinspires.org/robotics/ftc), the robotics league we compete in.
