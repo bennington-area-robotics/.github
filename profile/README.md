@@ -1,13 +1,11 @@
 # Bennington Area Robotics
 
-Community-based youth robotics teams based in Bennington, Vermont. 
-
-Join us for the [Bennington Qualifiers](https://bennington-area-robotics.github.io/events/bennington-qualifier-2026) on Saturday 1/31/2026 at [MAUMS](https://maps.app.goo.gl/zE9WbCbWNENq3pGUA)!
+Community-based youth robotics teams based in Bennington, Vermont.
 
 ## Teams
 
-- **[FTC 18650: Cookie Clickers](https://ftc-events.firstinspires.org/team/18650)** – formed in 2020, winning alliance at the Vermont Championship in 2024
-- **[FTC 32473: Bennington Bolts and Biscuits](https://ftc-events.firstinspires.org/team/32473)** – formed in 2025
+- **[FTC 18650: Cookie Clickers](https://ftc-events.firstinspires.org/team/18650)** – formed in 2019, Inspire Award winners at the 2026 Vermont State Championship.
+- **[FTC 32473: Bennington Bolts and Biscuits](https://ftc-events.firstinspires.org/team/32473)** – formed in 2025, 7th ranked team at the 2026 Vermont State Championship.
 
 ## What's here
 
